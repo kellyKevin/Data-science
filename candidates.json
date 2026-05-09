@@ -1,0 +1,233 @@
+[
+  {
+    "candidate_id": 2001,
+    "name": "Amina Yusuf",
+    "track": "Data Science",
+    "test_score": 78,
+    "project_score": 82,
+    "days_since_application": 4,
+    "missing_documents": 0,
+    "university": "USIU",
+    "portfolio_score": 70
+  },
+  {
+    "candidate_id": 2002,
+    "name": "Brian Otieno",
+    "track": "Software Engineering",
+    "test_score": 91,
+    "project_score": 88,
+    "days_since_application": 2,
+    "missing_documents": 0,
+    "university": "University of Nairobi",
+    "portfolio_score": 85
+  },
+  {
+    "candidate_id": 2003,
+    "name": "Chao Li",
+    "track": "Data science",
+    "test_score": 85,
+    "project_score": 90,
+    "days_since_application": 8,
+    "missing_documents": 1,
+    "university": "Strathmore",
+    "portfolio_score": 92
+  },
+  {
+    "candidate_id": 2004,
+    "name": "Diana Njeri",
+    "track": "Software Eng",
+    "test_score": 67,
+    "project_score": 72,
+    "days_since_application": 10,
+    "missing_documents": 0,
+    "university": "JKUAT",
+    "portfolio_score": 65
+  },
+  {
+    "candidate_id": 2005,
+    "name": "Ethan Mwangi",
+    "track": "Data Science",
+    "test_score": null,
+    "project_score": 79,
+    "days_since_application": 3,
+    "missing_documents": 0,
+    "university": "USIU",
+    "portfolio_score": 74
+  },
+  {
+    "candidate_id": 2006,
+    "name": "Faiza Noor",
+    "track": "Software Engineering",
+    "test_score": 88,
+    "project_score": null,
+    "days_since_application": 6,
+    "missing_documents": 0,
+    "university": "Strathmore",
+    "portfolio_score": 80
+  },
+  {
+    "candidate_id": 2007,
+    "name": "Grace Wambui",
+    "track": "Data Science",
+    "test_score": 92,
+    "project_score": 95,
+    "days_since_application": 1,
+    "missing_documents": 0,
+    "university": "USIU",
+    "portfolio_score": 96
+  },
+  {
+    "candidate_id": 2008,
+    "name": "Henry Kimani",
+    "track": "Software Engineering",
+    "test_score": 55,
+    "project_score": 60,
+    "days_since_application": 17,
+    "missing_documents": 2,
+    "university": "University of Nairobi",
+    "portfolio_score": 58
+  },
+  {
+    "candidate_id": 2009,
+    "name": "Ivy Achieng",
+    "track": "Data Science",
+    "test_score": 84,
+    "project_score": 84,
+    "days_since_application": 5,
+    "missing_documents": 0,
+    "university": "JKUAT",
+    "portfolio_score": 83
+  },
+  {
+    "candidate_id": 2010,
+    "name": "John Doe",
+    "track": "Data Science",
+    "test_score": 999,
+    "project_score": 45,
+    "days_since_application": 12,
+    "missing_documents": 0,
+    "university": "Unknown",
+    "portfolio_score": 20
+  },
+  {
+    "candidate_id": 2011,
+    "name": "Kelvin Maina",
+    "track": "software engineering",
+    "test_score": 76,
+    "project_score": 80,
+    "days_since_application": 7,
+    "missing_documents": 0,
+    "university": "Strathmore",
+    "portfolio_score": 78
+  },
+  {
+    "candidate_id": 2012,
+    "name": "Lila Patel",
+    "track": "Data Science",
+    "test_score": 81,
+    "project_score": 78,
+    "days_since_application": 9,
+    "missing_documents": 1,
+    "university": "USIU",
+    "portfolio_score": 75
+  },
+  {
+    "candidate_id": 2013,
+    "name": "Mercy Atieno",
+    "track": "Data Science",
+    "test_score": 73,
+    "project_score": 74,
+    "days_since_application": 11,
+    "missing_documents": 0,
+    "university": "University of Nairobi",
+    "portfolio_score": 77
+  },
+  {
+    "candidate_id": 2014,
+    "name": "Noah Korir",
+    "track": "Software Engineering",
+    "test_score": 89,
+    "project_score": 91,
+    "days_since_application": 2,
+    "missing_documents": 0,
+    "university": "JKUAT",
+    "portfolio_score": 90
+  },
+  {
+    "candidate_id": 2014,
+    "name": "Noah Korir",
+    "track": "Software Engineering",
+    "test_score": 89,
+    "project_score": 91,
+    "days_since_application": 2,
+    "missing_documents": 0,
+    "university": "JKUAT",
+    "portfolio_score": 90
+  },
+  {
+    "candidate_id": 2015,
+    "name": "Olivia Tan",
+    "track": "Data Science",
+    "test_score": 64,
+    "project_score": 68,
+    "days_since_application": 14,
+    "missing_documents": 1,
+    "university": "Strathmore",
+    "portfolio_score": 72
+  },
+  {
+    "candidate_id": 2016,
+    "name": "Peter Ndegwa",
+    "track": "Software Engineering",
+    "test_score": 82,
+    "project_score": 86,
+    "days_since_application": -1,
+    "missing_documents": 0,
+    "university": "USIU",
+    "portfolio_score": 81
+  },
+  {
+    "candidate_id": 2017,
+    "name": "Queen Adera",
+    "track": "Data Science",
+    "test_score": 87,
+    "project_score": 89,
+    "days_since_application": 4,
+    "missing_documents": 0,
+    "university": "University of Nairobi",
+    "portfolio_score": 88
+  },
+  {
+    "candidate_id": 2018,
+    "name": "Raj Singh",
+    "track": "Software Engineering",
+    "test_score": 90,
+    "project_score": 92,
+    "days_since_application": 5,
+    "missing_documents": 0,
+    "university": "JKUAT",
+    "portfolio_score": 89
+  },
+  {
+    "candidate_id": 2019,
+    "name": "Sarah Chebet",
+    "track": "Data Science",
+    "test_score": 79,
+    "project_score": 81,
+    "days_since_application": 6,
+    "missing_documents": 3,
+    "university": "USIU",
+    "portfolio_score": 79
+  },
+  {
+    "candidate_id": 2020,
+    "name": "Tom Ouma",
+    "track": "Software Engineering",
+    "test_score": 71,
+    "project_score": 75,
+    "days_since_application": 8,
+    "missing_documents": 0,
+    "university": "Strathmore",
+    "portfolio_score": 73
+  }
+]

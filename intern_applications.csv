@@ -1,0 +1,22 @@
+candidate_id,name,university,track,assessment_score,project_score,days_since_application,missing_documents,graduation_year,email,gender,preferred_location
+1001,Amina Yusuf,USIU,Data Science,78,82,4,0,2026,amina.yusuf@example.com,F,Nairobi
+1002,Brian Otieno,University of Nairobi,Software Engineering,91,88,2,0,2025,brian.otieno@example.com,M,Nairobi
+1003,Chao Li,Strathmore,Data science,85,90,8,1,2026,chao.li@example.com,M,Nairobi
+1004,Diana Njeri,JKUAT,Software Eng,67,72,10,0,2027,diana.njeri@example.com,F,Remote
+1005,Ethan Mwangi,USIU,Data Science,,79,3,0,2026,ethan.mwangi@example.com,M,Nairobi
+1006,Faiza Noor,Strathmore,Software Engineering,88,,6,0,2025,faiza.noor@example.com,F,Mombasa
+1007,Grace Wambui,USIU,Data Science,92,95,1,0,2025,grace.wambui@example.com,F,Nairobi
+1008,Henry Kimani,University of Nairobi,Software Engineering,55,60,17,2,2026,henry.kimani@example.com,M,Nairobi
+1009,Ivy Achieng,JKUAT,Data Science,84,84,5,0,2025,ivy.achieng@example.com,F,Remote
+1010,John Doe,Unknown,Data Science,999,45,12,0,2024,john.doe@example,Male,Nairobi
+1011,Kelvin Maina,Strathmore,software engineering,76,80,7,0,2026,kelvin.maina@example.com,M,Nairobi
+1012,Lila Patel,USIU,Data Science,81,78,9,1,2025,lila.patel@example.com,F,Nairobi
+1013,Mercy Atieno,University of Nairobi,Data Science,73,74,11,0,2027,mercy.atieno@example.com,F,Kisumu
+1014,Noah Korir,JKUAT,Software Engineering,89,91,2,0,2025,noah.korir@example.com,M,Nairobi
+1014,Noah Korir,JKUAT,Software Engineering,89,91,2,0,2025,noah.korir@example.com,M,Nairobi
+1015,Olivia Tan,Strathmore,Data Science,64,68,14,1,2026,olivia.tan@example.com,F,Remote
+1016,Peter Ndegwa,USIU,Software Engineering,82,86,-1,0,2025,peter.ndegwa@example.com,M,Nairobi
+1017,Queen Adera,University of Nairobi,Data Science,87,89,4,0,2025,queen.adera@example.com,F,Nairobi
+1018,Raj Singh,JKUAT,Software Engineering,90,92,5,0,2026,raj.singh@example.com,M,Mombasa
+1019,Sarah Chebet,USIU,Data Science,79,81,6,3,2027,sarah.chebet@example.com,F,Nairobi
+1020,Tom Ouma,Strathmore,Software Engineering,71,75,8,0,2025,tom.ouma@example.com,M,Nairobi

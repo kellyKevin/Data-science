@@ -1,0 +1,21 @@
+candidate_id,name,track,test_score,project_score,days_since_application,missing_documents,university,portfolio_score,ranking_score,rank
+2007,Grace Wambui,Data Science,92.0,95.0,1,0,USIU,96,91.25,1
+2014,Noah Korir,Software Engineering,89.0,91.0,2,0,JKUAT,90,87.45,2
+2018,Raj Singh,Software Engineering,90.0,92.0,5,0,JKUAT,89,87.00000000000001,3
+2002,Brian Otieno,Software Engineering,91.0,88.0,2,0,University of Nairobi,85,86.2,4
+2017,Queen Adera,Data Science,87.0,89.0,4,0,University of Nairobi,88,84.55000000000001,5
+2009,Ivy Achieng,Data Science,84.0,84.0,5,0,JKUAT,83,80.6,6
+2016,Peter Ndegwa,Software Engineering,82.0,86.0,-1,0,USIU,81,79.10000000000001,7
+2003,Chao Li,Data Science,85.0,90.0,8,1,Strathmore,92,78.9,8
+2001,Amina Yusuf,Data Science,78.0,82.0,4,0,USIU,70,74.9,9
+2011,Kelvin Maina,Software Engineering,76.0,80.0,7,0,Strathmore,78,74.00000000000001,10
+2013,Mercy Atieno,Data Science,73.0,74.0,11,0,University of Nairobi,77,70.5,11
+2012,Lila Patel,Data Science,81.0,78.0,9,1,USIU,75,69.7,12
+2020,Tom Ouma,Software Engineering,71.0,75.0,8,0,Strathmore,73,69.24999999999999,13
+2004,Diana Njeri,Software Engineering,67.0,72.0,10,0,JKUAT,65,65.0,14
+2019,Sarah Chebet,Data Science,79.0,81.0,6,3,USIU,79,61.75,15
+2010,John Doe,Data Science,999.0,45.0,12,0,Unknown,20,59.75,16
+2015,Olivia Tan,Data Science,64.0,68.0,14,1,Strathmore,72,58.8,17
+2006,Faiza Noor,Software Engineering,88.0,,6,0,Strathmore,80,52.2,18
+2008,Henry Kimani,Software Engineering,55.0,60.0,17,2,University of Nairobi,58,44.6,19
+2005,Ethan Mwangi,Data Science,,79.0,3,0,USIU,74,43.449999999999996,20
