@@ -1,0 +1,251 @@
+PREPARATION.README.md.txt
+
+Greetings,
+
+I trust you are doing well.
+
+On behalf of Strathmore University, welcome to the Master’s in Data Science program. We are pleased to have you join us.
+
+This note is intended to help you prepare for the orientation program on Monday 11th May 2026 at 12:00 PM in Sir Thomas Building Basement room 03.
+
+---
+
+## Orientation Preparation
+
+### Event Details
+- **Date:** Monday 11th May 2026
+- **Time:** 12:00 PM start
+- **Location:** STMB B 03
+- **Program host:** Strathmore Institute of Mathematical Science & iLab Africa
+
+### Agenda Summary
+- 12:00 PM: Arrival and Registration — Racheal & Constance
+- 12:30 PM: Welcome Remarks — Dr. Joseph Sevilla
+- 12:45 PM: Welcome Remarks — Dr. Godfrey Madigu
+- 1:00 PM: Lecturers Expectations — Dr. Titus Orwa
+- 1:15 PM: MSc DSA Program Overview — Dr. John Olukuru
+- 1:30 PM: MSc Economics Contribution — Dr. Caroline Kariuki
+- 1:45 PM: Remarks by SGS Team — Prof. Bernard Shibwabo
+- 2:00 PM: ICT Orientation — Mike Mbabu
+- 2:20 PM: Library and E-learning — Emily Sawe
+- 3:00 PM: Q & A Session — Constance Odoli
+- 3:30 PM: Brunch — Kilimanjaro Cafeteria
+
+### Key Stakeholders to Know
+- **Dr. Joseph Sevilla** — Director, iLab Africa Research Centre
+- **Dr. Godfrey Madigu** — Dean, SIMS
+- **Dr. Titus Orwa** — Academic Director, Graduate Programmes
+- **Dr. John Olukuru** — Head of Data Science and Analytics, iLab Africa
+- **Dr. Caroline Kariuki** — Lecturer, SIMS (Economics & Econometrics)
+- **Prof. Bernard Shibwabo** — SGS Team, Business & IT expert
+- **Mike Mbabu** — ICT orientation lead
+- **Emily Sawe** — Deputy University Librarian and Instructional Designer
+
+---
+
+## What to Say About Yourself
+
+### Introduction
+Hello, my name is [Your Name]. I am very excited to be joining the Master’s in Data Science program at Strathmore University. I am grateful for this opportunity and eager to learn from the Strathmore faculty and the iLab Africa research community.
+
+### Background
+I come from a background in [your undergraduate field or prior experience]. I have worked on projects in [mention relevant fields such as analytics, software, finance, research, business, or engineering]. My academic and professional experience has given me a strong foundation in problem solving, analytical thinking, and working with data.
+
+### Experience
+I have experience with:
+- data analysis and visualization
+- programming in Python
+- using tools such as pandas, NumPy, scikit-learn, Matplotlib, and Jupyter notebooks
+- working with datasets to answer business questions
+- building models, interpreting results, and presenting findings clearly
+
+If you have more experience in software development, engineering, or project work, mention that too. Keep it concise and positive.
+
+### Interests
+I am interested in using data science to solve real problems, especially those that affect communities and society. I enjoy exploring how data can reveal insights, improve decisions, and build solutions that matter.
+
+---
+
+## Why Data Science?
+
+### Purpose
+I chose Data Science because I believe it offers a unique way to turn information into action. Data science helps us understand complex problems, discover patterns, and make better decisions.
+
+### Contribution to Society
+I am passionate about applying data science to contribute to:
+- education and learning outcomes
+- healthcare access and quality
+- financial inclusion and responsible lending
+- sustainable development and climate resilience
+- community safety and digital trust
+
+### Technology and Innovation
+I am committed to leveraging artificial intelligence and emerging technologies safely and responsibly. I want to use AI to empower communities, not expose them to harm.
+
+That means:
+- building tools that protect privacy and security
+- being aware of risks in platforms like Canva, Vercel, and others
+- designing solutions that avoid bias and support fairness
+- keeping innovation aligned with global best practices in Data Science
+
+---
+
+## Focus Areas During the Program
+
+### What I Want to Learn
+I hope to focus on:
+- advanced machine learning and AI methods
+- ethical data science and responsible innovation
+- practical applications in business, public policy, and social good
+- data engineering, model deployment, and real-world project delivery
+- research-driven problem solving at the intersection of data and society
+
+### What I Want to Build
+I want to develop solutions that:
+- transform data into insights that people can use
+- support safe, trustworthy AI systems
+- strengthen community resilience and digital protection
+- deliver measurable benefits for ordinary users
+
+---
+
+## After the Program
+
+### Short-term Goals
+After this program, I want to:
+- contribute to data-driven projects in industry or research
+- work with teams that use data science for social impact
+- help organisations make decisions based on evidence and responsible analytics
+
+### Long-term Goals
+Longer term, I hope to:
+- help build AI solutions that empower communities
+- support innovation in education, health, and public services
+- mentor others in data science and ethical technology
+- contribute to a safer, more inclusive digital future
+
+---
+
+## Orientation Tips
+- Arrive early to register and connect with fellow students
+- Take notes during presentations and ask clear questions
+- Introduce yourself briefly to the facilitators you meet
+- Show enthusiasm for learning and collaboration
+- Be prepared to learn more about the program structure, resources, and research opportunities
+
+Best wishes for a successful and fulfilling start to your Master’s program. Remember, attending orientation is an important first step, and it shows your commitment and readiness to learn.
+
+Regards,
+[Your Name]
+
+---
+
+## How I Completed the Task from Start to Finish
+
+### Starting Point
+When I began this task, I first reviewed the assignment requirements carefully to understand the deliverables: code fixes, data cleaning, candidate ranking, a memo, and a reflection.
+
+### Step 1: Inspect the Data
+I opened the provided files (`intern_applications.csv` and `candidates.json`) and examined the headings and sample records. I noted missing values, inconsistent labels, duplicate entries, invalid scores, and any anomalies in the data.
+
+### Step 2: Fix the Broken Script
+For the debugging task, I created a fixed version of the analysis script. I improved it by:
+- adding error handling for file loading
+- replacing `dropna()` with smarter cleaning logic
+- validating required columns and values
+- checking for unreasonable data such as scores above 100
+- summarizing record counts before and after cleaning
+
+This ensured the script ran correctly and produced useful, reliable output.
+
+### Step 3: Clean the Intern Applications Data
+I then wrote a dedicated analysis script for the CSV file. The cleaning process included:
+- removing duplicate candidate rows
+- standardizing track and gender labels
+- marking invalid universities and broken emails
+- flagging impossible values like a 999 test score and negative days since application
+- filling missing numeric values using the median for stability
+- validating the cleaned dataset with sanity checks
+
+I saved the cleaned dataset as `cleaned_intern_applications.csv` and generated summary insights.
+
+### Step 4: Build the Ranking Logic
+For the candidate ranking task, I developed a transparent scoring system that weights:
+- test score (40%)
+- project score (35%)
+- portfolio score (20%)
+
+I also added penalties for missing documents and bonuses for recent applications. This method is simple, explainable, and easy to discuss during orientation or hiring review.
+
+### Step 5: Write the Memo and Reflection
+I prepared a short memo for a non-technical audience explaining why historical model performance is not enough to trust a hiring workflow. I also wrote a reflection answering the required questions about effort, decisions, mistakes, and whether AI tools were used.
+
+---
+
+## My Interest in Data Science
+
+I am passionate about Data Science because it combines analytical thinking, technology, and practical problem solving. I enjoy:
+- turning raw data into clear insights
+- using data to support better decisions
+- building tools that help communities, not just businesses
+
+I am especially interested in how data science can improve education, health, financial inclusion, and digital safety. This program is an opportunity to deepen my skills and contribute to solutions that matter.
+
+---
+
+## Tools and Libraries I Used
+
+### Development Tools
+- **Python** as the main programming language
+- **VS Code** for editing and project organization
+- **Windows Terminal / PowerShell** for running scripts
+
+### Data Libraries
+- **pandas** for reading, cleaning, and analyzing CSV data
+- **numpy** for numerical calculations and handling invalid values
+- **json** for loading candidate information from `candidates.json`
+
+### Reasoning Behind the Tools
+I chose these tools because they are standard in data science, easy to use, and well suited to the tasks:
+- `pandas` makes it straightforward to spot missing values, normalize text, and compute summary statistics.
+- `numpy` helps with safe numeric operations and imputation.
+- `json` supports structured input data in the candidate ranking task.
+
+---
+
+## Reasoning Behind My Decisions
+
+### Why I Used Median Imputation
+I used the median to fill missing test or project scores because it is robust to outliers. This is important when the dataset contains invalid entries like a score of 999.
+
+### Why I Standardized Categories
+I standardized track names and gender values so the results are consistent. Without this step, analysis would split the same category into multiple meaningless groups.
+
+### Why the Ranking Is Transparent
+I built a score formula that is easy to explain: it shows how each candidate’s test, project, and portfolio strengths contribute to their overall ranking. This is better than a black-box model for early review and orientation conversations.
+
+### Why I Flagged Data Issues
+I flagged candidates with missing or invalid data because those records deserve manual attention. If the data is not clean, it is unfair to rely on the ranking alone.
+
+---
+
+## What I Hope to Focus On
+
+During the Master’s program, I want to focus on:
+- advanced machine learning and AI systems
+- ethical and responsible data science
+- applying analytics to real community problems
+- deploying robust, secure solutions in practice
+
+## What I Want to Do After the Program
+
+After graduation, I hope to:
+- work on AI and data science projects that protect and empower communities
+- help organizations make smart, ethical decisions with data
+- build systems that are secure, transparent, and fair
+- contribute to innovation that transforms data into meaningful solutions
+
+---
+
+If you need a final version personalized with your name and exact background, I can help you customize it further.
+
