@@ -1,0 +1,117 @@
+# INTERVIEW PREPARATION GUIDE - MSc DATA SCIENCE
+
+## 1. INTERVIEW DETAILS
+- **Date:** Wednesday, 13th May 2026
+- **Time:** 11:20 AM - 11:50 AM
+- **Venue:** Strathmore University – iLab Africa Student Centre Building, 3rd Floor – Amazon Boardroom.
+- **Format:** Physical (In-person)
+- **Arrival:** Wait at the 4th Floor reception.
+- **Contact:** Constance Odoli (Receptionist | @iLabAfrica)
+
+---
+
+## 2. PERSONAL INTRODUCTION & BACKGROUND
+- **Introduction:** "Hello, I am Kelly Kevin Momanyi. I am a passionate technologist with a strong foundation in software engineering and a growing expertise in data-driven solutions."
+- **Background:**
+    - Degree in Information Technology from Zetech University.
+    - ALX Software Engineering program graduate (Full-stack focus).
+    - Practical experience in building applications using React, Node.js, Express, and Laravel.
+- **Experience:**
+    - **Industrial Attachment (National Treasury - IFMIS):** Gained experience in Oracle databases, secure infrastructure (VPNs), and system troubleshooting.
+    - **Projects:** Developed a Smart Irrigation and Weather Monitoring System using ESP32, integrating IoT with intelligent decision-making.
+- **Interest:** Moving from "building systems" to "building intelligent systems." Passionate about Agriculture, Environmental Monitoring, and secure AI deployment.
+
+---
+
+## 3. TECHNICAL ASSESSMENT REFLECTION (THE TESTS)
+*Be ready to explain the logic used in the assessment task:*
+- **Tools/Libraries Used:**
+    - **Python:** Core logic.
+    - **Pandas:** Data manipulation, cleaning, and normalization.
+    - **NumPy:** Handling numerical anomalies and median calculations.
+    - **JSON:** Parsing structured candidate data.
+- **Cleaning Logic:**
+    - **Median Imputation:** Used to fill missing scores (robust against outliers like the 999 score found in the data).
+    - **Standardization:** Corrected inconsistent labels (e.g., "Data science" vs "Data Science", "Software Eng" vs "Software Engineering").
+    - **Validation:** Flagged invalid records (negative days since application, broken emails) instead of just deleting them, ensuring data integrity.
+- **Ranking System:**
+    - Implemented a **Weighted Scoring System**: Test Score (40%), Project Score (35%), Portfolio Score (20%), and Documentation/Recency (5%).
+    - **Transparency:** The model is explainable and fair, avoiding "black-box" decisions.
+
+---
+
+## 4. WHY DATA SCIENCE & IMPACT
+- **Why Data Science?** To transform raw data into actionable intelligence. Data is the new oil, but refinement (analysis) is what creates value.
+- **Contribution to Society:**
+    - **Agriculture:** Optimizing resource use (water, fertilizer) through predictive modeling.
+    - **Community Empowerment:** Developing AI solutions that protect and empower.
+- **AI Potential & Security:**
+    - Leveraging AI requires **Competence and Ethics**.
+    - **Current Issues:** Mention security vulnerabilities seen in platforms like **Canva and Vercel**. AI must be harnessed to protect communities, not just for speed.
+    - **Innovation:** Lies in developing people who can transform data into meaningful solutions.
+
+---
+
+## 5. @iLabAfrica DEEP DIVE
+*iLab is a Centre of Excellence in ICT Innovation and Development at Strathmore University.*
+- **Mission:** ICT4D, UN SDGs, and Kenya’s Vision 2030.
+- **Departments & Focus:**
+    1. **Data Science Unit:** Analytics and insights (My primary alignment).
+    2. **Cyber Security Unit:** Critical for protecting AI agents and data privacy.
+    3. **eHealth Unit:** Leveraging data for healthcare outcomes.
+    4. **Digital Learning Unit:** Modernizing education.
+    5. **IoT & Wireless Networks:** Connected devices (aligns with my Irrigation project).
+    6. **IT Outsourcing & Consulting:** Industry collaboration.
+    7. **Cloud Computing:** Infrastructure for big data.
+    8. **Magnetism & Safety:** Specialized research.
+    9. **Executive Education:** Upskilling leadership.
+- **Alignment:**
+    - **Data Science & IoT Units:** Directly connects to my Smart Irrigation project and my goal to build "intelligent systems."
+    - **Cyber Security Unit:** Aligns with my focus on secure AI and protecting communities from vulnerabilities (like the Canva/Vercel examples).
+    - **ICT Research and Innovation (94% focus):** I am eager to contribute to iLab’s primary mission of research that drives Kenya’s Vision 2030 and the UN SDGs.
+
+- **Partnerships:** I recognize that iLab works with industry-leading partners. I am keen to learn how these collaborations translate into real-world projects for students.
+
+---
+
+## 6. ORIENTATION TAKEAWAYS (STAKEHOLDERS & SYSTEM)
+- **Stakeholders:**
+    - **Dr. Joseph Sevilla (Director @iLabAfrica):** Emphasized Research, Innovation, and the connection between AI/Data Science and Business. Warned about **AI Hallucinations** and the need for **Indigenous Data**.
+    - **Dr. Godfrey Madigu (Dean, SIMS):** 20+ years in education.
+    - **Dr. Titus Orwa (Academic Director):** Set expectations for Graduate Seminar Series and multidisciplinarity.
+    - **Dr. John Olukuru (Head of DS & Analytics):** Program lead.
+- **Academic Rigor:**
+    - **Grading:** 70%+ (A), 60% (B), 50% (C). Passing requires 50% in both Report (80% weight) and Defense (20% weight).
+    - **Resources:** AMS (Academic Management System), E-learning, Library (IEEE publications), Ethical Clearance for research.
+
+---
+
+## 7. FUTURE GOALS
+- **Focus during Program:** Machine Learning, ethical AI, and data engineering.
+- **After the Program:**
+    - Build intelligent systems that address African challenges.
+    - Work on AI solutions that are transparent, secure, and fair.
+    - Contribute to the "Work and Publish" culture (IEEE).
+
+---
+
+## 8. POSSIBLE INTERVIEW Q&A
+
+**Q: Why did you choose Strathmore for your Master’s?**
+*A: Because of @iLabAfrica's focus on ICT4D and the practical, research-driven approach to Data Science. Strathmore's reputation for ethical leadership and its link to industry through the Research Office is unparalleled.*
+
+**Q: How do you handle "hallucinations" in AI models?**
+*A: As Dr. Sevilla mentioned, AI needs to be fed with high-quality, indigenous data. I believe in rigorous validation and human-in-the-loop systems to ensure accuracy.*
+
+**Q: Tell us about a time you handled messy data.**
+*A: In the assessment provided, I encountered outliers (score 999) and missing values. I used median imputation and data standardization in Python to ensure the ranking remained fair and consistent.*
+
+**Q: What is the importance of "Ethical Clearance" in your research?**
+*A: It ensures that our data collection and analysis respect privacy and consent, which is vital when building solutions for the community.*
+
+**Q: How do you stay updated with global innovations?**
+*A: I follow developments in platforms like Vercel and Canva to understand security risks, and I engage with research publications like IEEE to keep up with the latest in Data Science.*
+
+---
+**KEY PHRASE TO REMEMBER:**
+"Innovation lies in developing people who can transform data into meaningful solutions."
